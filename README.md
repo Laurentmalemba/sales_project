@@ -166,9 +166,9 @@ All visuals update dynamically based on user interaction.
 
 ## 🗂️ Repository Contents
 
-- `FirstName_Profit&Growth_Project.pbix` – Interactive Power BI dashboard  
-- `FirstName_Profit&Growth_Project_Dashboard.pdf` – Dashboard export  
-- `FirstName_Profit&Growth_Project_Insights.pptx` – Executive presentation  
+- `Profit&Growth_Project.pbix` – Interactive Power BI dashboard  
+- `Profit&Growth_Project_Dashboard.pdf` – Dashboard export  
+- `Profit&Growth_Project_Insights.pptx` – Executive presentation  
 - `README.md` – Project documentation  
 
 ---
