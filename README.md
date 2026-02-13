@@ -1,9 +1,9 @@
-# 📊 Strategic Profit & Growth Dashboard  
+#  Strategic Profit & Growth Dashboard  
 ### Power BI Executive Analytics Project
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project transforms raw retail transactional data into a **Strategic Profit & Growth Intelligence Dashboard** using Power BI.
 
@@ -17,7 +17,7 @@ The dashboard connects operational performance (sales, profit, discounts, orders
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Retail executives often struggle to make informed strategic decisions because transactional data alone does not clearly reveal performance drivers.
 
@@ -32,7 +32,7 @@ This dashboard was designed to bridge that gap.
 
 ---
 
-## 📂 Data Source & Structure
+##  Data Source & Structure
 
 The dataset contains retail order-level transactional data from **2014–2017**.
 
@@ -68,7 +68,7 @@ Each row represents a **single product sold within an order**, enabling detailed
 
 ---
 
-## 🏗️ Dashboard Architecture
+##  Dashboard Architecture
 
 The Power BI report is structured into three strategic pages:
 
@@ -120,7 +120,7 @@ Identify high-performing regions and areas requiring optimization.
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - The business generated **$2.30M in total sales** and **$286K in total profit**.
 - Sales experienced strong year-over-year growth.
@@ -131,26 +131,26 @@ Identify high-performing regions and areas requiring optimization.
 
 ---
 
-## 🚀 Strategic Recommendations
+##  Strategic Recommendations
 
-### ✅ Grow
+###  Grow
 - High-margin Technology products  
 - Top profit-driving SKUs  
 - Strong-performing regions (West & East)  
 - Seasonal Q4 demand  
 
-### 🔧 Fix
+###  Fix
 - Discount strategy in low-margin categories  
 - Furniture margin optimization  
 - Underperforming regional cost structure  
 
-### ⛔ Stop / Reduce
+###  Stop / Reduce
 - Consistently low-margin products  
 - Excessive discounting practices  
 
 ---
 
-## 🧮 Technical Implementation
+##  Technical Implementation
 
 The dashboard was developed using:
 
@@ -164,7 +164,7 @@ All visuals update dynamically based on user interaction.
 
 ---
 
-## 🗂️ Repository Contents
+##  Repository Contents
 
 - `Profit&Growth_Project.pbix` – Interactive Power BI dashboard  
 - `Profit&Growth_Project_Dashboard.pdf` – Dashboard export  
@@ -173,7 +173,7 @@ All visuals update dynamically based on user interaction.
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project demonstrates how Power BI can be used not only for reporting but for **strategic business intelligence**.
 
